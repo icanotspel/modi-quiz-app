@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
     {
       'questionText': 'What is Modi Ji\s birth year',
       'answers': [
-        {'text': '1950', 'score': 1},
+        {'text': '1950', 'score': 0},
         {'text': '1947', 'score': 0},
         {'text': '1963', 'score': 0},
         {'text': '1958', 'score': 0}
@@ -32,7 +32,7 @@ class _MyAppState extends State<MyApp> {
       'answers': [
         {'text': 'Chief Minister', 'score': 0},
         {'text': 'President', 'score': 0},
-        {'text': 'Prime Minister', 'score': 1},
+        {'text': 'Prime Minister', 'score': 0},
         {'text': 'Retired', 'score': 0}
       ],
     },
@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> {
       'questionText': 'What car does Modi Ji drive',
       'answers': [
         {'text': 'Tata', 'score': 0},
-        {'text': 'Mercedes', 'score': 1},
+        {'text': 'Mercedes', 'score': 0},
         {'text': 'Land Rover', 'score': 0},
         {'text': 'Subaru', 'score': 0}
       ],
@@ -51,14 +51,14 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Politics', 'score': 0},
         {'text': 'Medical', 'score': 0},
         {'text': 'Buisness', 'score': 0},
-        {'text': 'Army', 'score': 1}
+        {'text': 'Army', 'score': 0}
       ],
     },
     {
       'questionText': 'What number Prime Minister is Modi Ji?',
       'answers': [
         {'text': '12', 'score': 0},
-        {'text': '14', 'score': 1},
+        {'text': '14', 'score': 0},
         {'text': '9', 'score': 0},
         {'text': '17', 'score': 0}
       ],
@@ -68,14 +68,14 @@ class _MyAppState extends State<MyApp> {
       'answers': [
         {'text': 'Communist', 'score': 0},
         {'text': 'INC', 'score': 0},
-        {'text': 'BJP', 'score': 1},
+        {'text': 'BJP', 'score': 0},
         {'text': 'NPP', 'score': 0}
       ],
     },
     {
       'questionText': 'Who did Modi Ji endorse in Uttar Pradesh election',
       'answers': [
-        {'text': 'Yogi Adiyanath', 'score': 1},
+        {'text': 'Yogi Adiyanath', 'score': 0},
         {'text': 'Priyanka Ghandi', 'score': 0},
         {'text': 'Akilesh Yadev', 'score': 0},
         {'text': 'Mayawati', 'score': 0}
@@ -87,13 +87,13 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Dehli', 'score': 0},
         {'text': 'Mumbai', 'score': 0},
         {'text': 'Hyderabad', 'score': 0},
-        {'text': 'Gujurat', 'score': 1}
+        {'text': 'Gujurat', 'score': 0}
       ],
     },
     {
       'questionText': 'Was Modi Ji ever TIMES Person of the Year',
       'answers': [
-        {'text': 'Yes', 'score': 1},
+        {'text': 'Yes', 'score': 0},
         {'text': 'No', 'score': 0},
       ],
     },
@@ -102,7 +102,7 @@ class _MyAppState extends State<MyApp> {
           'What rank is Modi Ji in followers on Twitter for politics',
       'answers': [
         {'text': '1', 'score': 0},
-        {'text': '2', 'score': 1},
+        {'text': '2', 'score': 0},
         {'text': '3', 'score': 0},
         {'text': '4', 'score': 0}
       ],
